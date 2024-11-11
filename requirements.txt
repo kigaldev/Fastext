@@ -1,0 +1,5 @@
+# requirements.txt
+# Proyecto de prueba de velocidad de escritura - Dependencias
+
+# Requiere Python 3.6 o superior (Tkinter incluido en versiones de Python 3)
+python>=3.6
